@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "DRAFT Data in Animal Welfare"
+  author: "Jill R D MacKay"
+  date: "05/11/2025"
+  chapters:
+    - index.qmd
+    - 01_intro.qmd
+    - 02_datatypes.qmd
+    - 03_datavis.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: pulse
+  pdf:
+    documentclass: scrreprt
+
+
+
