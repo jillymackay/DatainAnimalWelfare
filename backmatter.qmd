@@ -1,0 +1,19 @@
+# About {.unnumbered}
+
+This book was collaboratively written at the Royal (Dick) School of Veterinary Sciences
+
+## Authors {.unnumbered}
+
+**Jill R D MacKay** 
+Jill is a Senior Lecturer in Veterinary Science Education at the R(D)SVS
+
+### CREDIT Statement {.unnumbered}
+[CREDIT](https://credit.niso.org/)
+
+**JRDM**: Conceptualisation, Software, Supervision, Visualisation, Project Administration, Writing (Original Draft), Writing (Review & Editing)
+
+## Licenses {.unnumbered}
+
+This work is created under an Attribution-ShareAlike 4.0 International Creative Commons License.
+
+![CC BY-SA 4.0](/media/by-sa.png "CC BY-SA 4.0"){width="91"}[CC By-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

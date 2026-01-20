@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DRAFT Data in Animal Welfare",
+    "section": "",
+    "text": "Preface\nThis is a free book on data in animal welfare"
+  },
+  {
+    "objectID": "01_intro.html",
+    "href": "01_intro.html",
+    "title": "1  Introduction to Data in Animal Welfare",
+    "section": "",
+    "text": "This is an open resource to support people to use data in animal welfare\nFive domains (Mellor et al. 2020)\n\n\n\n\nMellor, David J., Ngaio J. Beausoleil, Katherine E. Littlewood, Andrew N. McLean, Paul D. McGreevy, Bidda Jones, and Cristina Wilkins. 2020. “The 2020 five domains model: Including human–animal interactions in assessments of animal welfare.” Animals 10 (10): 1–24. https://doi.org/10.3390/ani10101870."
+  },
+  {
+    "objectID": "02_datatypes.html",
+    "href": "02_datatypes.html",
+    "title": "2  Data Types",
+    "section": "",
+    "text": "NOIR data\nCollecting data from animals"
+  },
+  {
+    "objectID": "03_datavis.html",
+    "href": "03_datavis.html",
+    "title": "3  Visualising data",
+    "section": "",
+    "text": "Good visualisations are important"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "4  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Mellor, David J., Ngaio J. Beausoleil, Katherine E. Littlewood, Andrew\nN. McLean, Paul D. McGreevy, Bidda Jones, and Cristina Wilkins. 2020.\n“The 2020 five domains model: Including\nhuman–animal interactions in assessments of animal\nwelfare.” Animals 10 (10): 1–24. https://doi.org/10.3390/ani10101870."
+  },
+  {
+    "objectID": "backmatter.html#authors",
+    "href": "backmatter.html#authors",
+    "title": "5  About",
+    "section": "Authors",
+    "text": "Authors\nJill R D MacKay Jill is a Senior Lecturer in Veterinary Science Education at the R(D)SVS\n\nCREDIT Statement\nCREDIT\nJRDM: Conceptualisation, Software, Supervision, Visualisation, Project Administration, Writing (Original Draft), Writing (Review & Editing)"
+  },
+  {
+    "objectID": "backmatter.html#licenses",
+    "href": "backmatter.html#licenses",
+    "title": "5  About",
+    "section": "Licenses",
+    "text": "Licenses\nThis work is created under an Attribution-ShareAlike 4.0 International Creative Commons License.\nCC By-SA 4.0"
+  }
+]
