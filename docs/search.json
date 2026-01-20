@@ -35,24 +35,31 @@
     "text": "In summary, this book has no content whatsoever."
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Mellor, David J., Ngaio J. Beausoleil, Katherine E. Littlewood, Andrew\nN. McLean, Paul D. McGreevy, Bidda Jones, and Cristina Wilkins. 2020.\n“The 2020 five domains model: Including\nhuman–animal interactions in assessments of animal\nwelfare.” Animals 10 (10): 1–24. https://doi.org/10.3390/ani10101870."
-  },
-  {
     "objectID": "backmatter.html#authors",
     "href": "backmatter.html#authors",
-    "title": "5  About",
+    "title": "About",
     "section": "Authors",
     "text": "Authors\nJill R D MacKay Jill is a Senior Lecturer in Veterinary Science Education at the R(D)SVS\n\nCREDIT Statement\nCREDIT\nJRDM: Conceptualisation, Software, Supervision, Visualisation, Project Administration, Writing (Original Draft), Writing (Review & Editing)"
   },
   {
     "objectID": "backmatter.html#licenses",
     "href": "backmatter.html#licenses",
-    "title": "5  About",
+    "title": "About",
     "section": "Licenses",
     "text": "Licenses\nThis work is created under an Attribution-ShareAlike 4.0 International Creative Commons License.\nCC By-SA 4.0"
+  },
+  {
+    "objectID": "backmatter.html#code",
+    "href": "backmatter.html#code",
+    "title": "About",
+    "section": "Code",
+    "text": "Code\nYou can find the code used to create this book here: https://github.com/jillymackay/DatainAnimalWelfare\nPlease feel free to use this code to create your own work, or to add any suggestions with a pull request."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Mellor, David J., Ngaio J. Beausoleil, Katherine E. Littlewood, Andrew\nN. McLean, Paul D. McGreevy, Bidda Jones, and Cristina Wilkins. 2020.\n“The 2020 five domains model: Including\nhuman–animal interactions in assessments of animal\nwelfare.” Animals 10 (10): 1–24. https://doi.org/10.3390/ani10101870."
   }
 ]
