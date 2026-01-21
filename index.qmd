@@ -10,3 +10,14 @@ This is a free book on data in animal welfare
 Louise: Chapter on ethics?
 
 Cynthia: The Excel resources: https://vet.ed.ac.uk/global-agriculture-food-systems/study/farm-data/excel-tutorials 
+
+
+## Meeting 2nd Feb
+
+Main goals for meeting:
+
+* Flesh out idea
+
+* Specify chapter list
+
+* Decide on initial tasks
