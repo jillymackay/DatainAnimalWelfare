@@ -17,6 +17,10 @@ Cynthia: The Excel resources: https://vet.ed.ac.uk/global-agriculture-food-syste
 Main goals for meeting:
 
 * Flesh out idea
+  - We need a chapter on basic stats at least, central tendency and spread, to support the reading of visualisations. 
+  - flowcharts on data choices?
+  - need to pin down target audience
+  - need to write the intro/disclaimer in a way that makes it clear what we are doing, this is not a course that equips you. This guide doesn't cover data management etc. 
 
 * Specify chapter list
 

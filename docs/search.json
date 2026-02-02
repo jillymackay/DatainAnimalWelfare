@@ -18,7 +18,7 @@
     "href": "index.html#meeting-2nd-feb",
     "title": "DRAFT Data in Animal Welfare",
     "section": "Meeting 2nd Feb",
-    "text": "Meeting 2nd Feb\nMain goals for meeting:\n\nFlesh out idea\nSpecify chapter list\nDecide on initial tasks"
+    "text": "Meeting 2nd Feb\nMain goals for meeting:\n\nFlesh out idea\n\nWe need a chapter on basic stats at least, central tendency and spread, to support the reading of visualisations.\nflowcharts on data choices?\nneed to pin down target audience\nneed to write the intro/disclaimer in a way that makes it clear what we are doing, this is not a course that equips you. This guide doesn’t cover data management etc.\n\nSpecify chapter list\nDecide on initial tasks"
   },
   {
     "objectID": "01_intro.html",
@@ -42,9 +42,23 @@
     "text": "Good visualisations are important"
   },
   {
+    "objectID": "04_simplestats.html",
+    "href": "04_simplestats.html",
+    "title": "4  Simple stats",
+    "section": "",
+    "text": "central tendencies"
+  },
+  {
+    "objectID": "05_datarelationships.html",
+    "href": "05_datarelationships.html",
+    "title": "5  Data relationships",
+    "section": "",
+    "text": "more extensive data relationships and visualisations that require central tendency\nflow charts what chart to choose for what visualisation?"
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "4  Summary",
+    "title": "6  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever."
   },

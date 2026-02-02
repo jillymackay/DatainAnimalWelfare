@@ -11,6 +11,8 @@ book:
     - 01_intro.qmd
     - 02_datatypes.qmd
     - 03_datavis.qmd
+    - 04_simplestats.qmd
+    - 05_datarelationships.qmd
     - summary.qmd
     - backmatter.qmd
     - references.qmd
