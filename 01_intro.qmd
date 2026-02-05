@@ -1,4 +1,11 @@
-# Introduction to Data in Animal Welfare
+# Data in Animal Welfare
+
+
+
+When you work in animal welfare, you will probably encounter data in some form or another, whether it's talking about the number of animals a charity has supported, or trying to get to grips with the prevalence of an animal welfare concern like tail docking. While there are many scientists in animal welfare who 
+
+
+
 
 This is an open resource to support people to use data in animal welfare
 

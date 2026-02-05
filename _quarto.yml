@@ -9,10 +9,15 @@ book:
   chapters:
     - index.qmd
     - 01_intro.qmd
-    - 02_datatypes.qmd
-    - 03_datavis.qmd
-    - 04_simplestats.qmd
-    - 05_datarelationships.qmd
+    - 02_badscience1.qmd
+    - 03_datasources.qmd
+    - 04_datatypes.qmd
+    - 05_tidydata.qmd
+    - 06_badscience2.qmd
+    - 07_datavis.qmd
+    - 08_describingdata.qmd
+    - 09_datarelationships.qmd
+    - 10_badscience3.qmd
     - summary.qmd
     - backmatter.qmd
     - references.qmd

@@ -1,6 +1,8 @@
 # Data relationships
 
+
 more extensive data relationships and visualisations that require central tendency
 
 
 flow charts what chart to choose for what visualisation?
+

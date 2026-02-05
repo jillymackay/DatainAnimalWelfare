@@ -18,14 +18,14 @@
     "href": "index.html#meeting-2nd-feb",
     "title": "DRAFT Data in Animal Welfare",
     "section": "Meeting 2nd Feb",
-    "text": "Meeting 2nd Feb\nMain goals for meeting:\n\nFlesh out idea\n\nWe need a chapter on basic stats at least, central tendency and spread, to support the reading of visualisations.\nflowcharts on data choices?\nneed to pin down target audience\nneed to write the intro/disclaimer in a way that makes it clear what we are doing, this is not a course that equips you. This guide doesn’t cover data management etc.\n\nSpecify chapter list\nDecide on initial tasks"
+    "text": "Meeting 2nd Feb\nMain goals for meeting:\n\nFlesh out idea\n\nWe need a chapter on basic stats at least, central tendency and spread, to support the reading of visualisations.\nflowcharts on data choices?\nneed to pin down target audience\nneed to write the intro/disclaimer in a way that makes it clear what we are doing, this is not a course that equips you. This guide doesn’t cover data management etc.\ndata collection? Data sources? This might be in the intro?\nsampling, generalisability, population vs sample, could go together with the data sources or intro?\nHow do I as a consumer of data react to a histogram? This is a diff audience to people who are dealing with data themselves.\nThis book is aimed at understanding animal welfare data not processing it\nAudience is WORKING in animal welfare but non experts in data\nClosing out chapter on applications of data in animal welfare\nFinal case study? You work for Hungry Hedgehogs, this is what you want to report, walk through it?\nBad science interpretation?\n\nSpecify chapter list\nIntroduction chapter containing disclaimer, audience pitch, explicit what its not going to cover (e.g. full stats etc)\nBad science chapter (Victoria first draft two parts? Build same case study throughout?)\nsources of data (including a bit of ethics and AI - and remember the aim is you the animal welfare worker needing to use data, you’re not collecting it, data quality and source quality, quantity vs quality)\nData types (percentages, noir, prevalence and incidence, groups)\ntidy data\nintro to data visualisation (what is a chart why am I looking at it)\ndescribing data (central tendncies, spread, transparency??, Victoria)\ndata relationships (highly data vis lean on it)\nfinal case study\nclosing applications chapter\nDecide on initial tasks\n\nJill to write a chapter template and word count parameter\nJill to look into interactivity\nJill to set up a technical meeting\nVictoria bad science chapter initial draft\nJill to make a Teams site for document library purposes\nSarah tidy data"
   },
   {
     "objectID": "01_intro.html",
     "href": "01_intro.html",
-    "title": "1  Introduction to Data in Animal Welfare",
+    "title": "1  Data in Animal Welfare",
     "section": "",
-    "text": "This is an open resource to support people to use data in animal welfare\nFive domains (Mellor et al. 2020)\n\n\n\n\nMellor, David J., Ngaio J. Beausoleil, Katherine E. Littlewood, Andrew N. McLean, Paul D. McGreevy, Bidda Jones, and Cristina Wilkins. 2020. “The 2020 five domains model: Including human–animal interactions in assessments of animal welfare.” Animals 10 (10): 1–24. https://doi.org/10.3390/ani10101870."
+    "text": "When you work in animal welfare, you will probably encounter data in some form or another, whether it’s talking about the number of animals a charity has supported, or trying to get to grips with the prevalence of an animal welfare concern like tail docking. While there are many scientists in animal welfare who\nThis is an open resource to support people to use data in animal welfare\nFive domains (Mellor et al. 2020)\n\n\n\n\nMellor, David J., Ngaio J. Beausoleil, Katherine E. Littlewood, Andrew N. McLean, Paul D. McGreevy, Bidda Jones, and Cristina Wilkins. 2020. “The 2020 five domains model: Including human–animal interactions in assessments of animal welfare.” Animals 10 (10): 1–24. https://doi.org/10.3390/ani10101870."
   },
   {
     "objectID": "02_datatypes.html",
@@ -58,7 +58,7 @@
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "6  Summary",
+    "title": "11  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever."
   },
@@ -89,5 +89,19 @@
     "title": "References",
     "section": "",
     "text": "Mellor, David J., Ngaio J. Beausoleil, Katherine E. Littlewood, Andrew\nN. McLean, Paul D. McGreevy, Bidda Jones, and Cristina Wilkins. 2020.\n“The 2020 five domains model: Including\nhuman–animal interactions in assessments of animal\nwelfare.” Animals 10 (10): 1–24. https://doi.org/10.3390/ani10101870."
+  },
+  {
+    "objectID": "02_badscience1.html",
+    "href": "02_badscience1.html",
+    "title": "2  Bad Science, Part 1",
+    "section": "",
+    "text": "When good data goes bad"
+  },
+  {
+    "objectID": "09_datarelationships.html",
+    "href": "09_datarelationships.html",
+    "title": "9  Data relationships",
+    "section": "",
+    "text": "more extensive data relationships and visualisations that require central tendency\nflow charts what chart to choose for what visualisation?"
   }
 ]
