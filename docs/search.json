@@ -103,5 +103,19 @@
     "title": "9  Data relationships",
     "section": "",
     "text": "more extensive data relationships and visualisations that require central tendency\nflow charts what chart to choose for what visualisation?"
+  },
+  {
+    "objectID": "07_datavis.html",
+    "href": "07_datavis.html",
+    "title": "7  Visualising data",
+    "section": "",
+    "text": "Good visualisations are important\n\nfiltered = transpose(data).filter(function(penguin) {\n  return bill_length_min &lt; penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})\n\n\n\n\n\n\n\nviewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot.rectY(filtered, \n  Plot.binX(\n    {y: \"count\"}, \n    {x: \"body_mass_g\", fill: \"species\", thresholds: 20}\n  ))\n  .plot({\n    facet: {\n      data: filtered,\n      x: \"sex\",\n      y: \"species\",\n      marginRight: 80\n    },\n    marks: [\n      Plot.frame(),\n    ]\n  }\n)"
+  },
+  {
+    "objectID": "08_describingdata.html",
+    "href": "08_describingdata.html",
+    "title": "8  Describing Data",
+    "section": "",
+    "text": "central tendncies, spread, transparency??"
   }
 ]
