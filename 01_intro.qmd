@@ -1,14 +1,30 @@
 # Data in Animal Welfare
 
+::: {.callout-tip}
+## About this book
+
+This chapter will explain who this book is for and what it will do!
+:::
 
 
-When you work in animal welfare, you will probably encounter data in some form or another, whether it's talking about the number of animals a charity has supported, or trying to get to grips with the prevalence of an animal welfare concern like tail docking. While there are many scientists in animal welfare who 
+When you work in animal welfare, you will probably encounter data in some form or another, whether it's talking about the number of animals a charity has supported, or trying to get to grips with the prevalence of an animal welfare concern like tail docking. While many people who work in animal welfare have some background in science, and may feel very comfortable working with data, many of us are not! 
+
+This freely available textbook is aimed at people who work in animal welfare to help support them to make better use of data in their role. Whether you're trying to understand a report, or communicate your organisation's work to stakeholders, this book can help. 
+
+In this book, we'll look over some examples of why its important to understand data, and where you can go wrong when trying to master it. We'll talk about where data can come from and what it can look like, as well as the important steps of cleaning and tidying data. We'll look at data visualisations, and different types of chart, as well as how to understand relationships between data. Finally, we'll explore places where you might be able to use data yourself. 
+This is a freely available resource, with a Creative Commons license, meaning you will never need to pay for these materials, and you are free to adapt and use them yourself (although we'd appreciate it if you told us when you use it!) 
+
+
+But it's also important to say what this book is **not**. We aren't going to teach you how to run complicated statistics, or how to collect your own data and plan experiments. This isn't a course, and we can't offer you any certificates at the end, or quizzes to demonstrate your knowledge. We're also not going to teach you how to use any specific software in this book, instead we're going to concentrate on simple data explanations, with examples drawn from our work in animal welfare. 
 
 
 
 
-This is an open resource to support people to use data in animal welfare
+## I'd like to go further!
 
+Great! We have a range of undergraduate, postgraduate, and professional development courses at the [Royal (Dick) School of Veterinary Studies here on our education page: https://vet.ed.ac.uk/education](https://vet.ed.ac.uk/education)
 
+We also offer free resources such as:
 
-Five domains [@Mellor2020]
+  * [Our introduction to excel video course](https://vet.ed.ac.uk/global-agriculture-food-systems/study/farm-data/excel-tutorials)
+  * [Our free textbook on using R for veterinary science, R  @ R(D)SVS](https://jillymackay.github.io/RatRDSVS/index.html)

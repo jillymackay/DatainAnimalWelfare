@@ -4,7 +4,9 @@ project:
 
 book:
   title: "DRAFT Data in Animal Welfare"
-  author: "Jill R D MacKay"
+  reader-mode: true
+  search: true
+  downloads: pdf
   date: "05/11/2025"
   chapters:
     - index.qmd
