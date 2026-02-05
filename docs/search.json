@@ -4,54 +4,61 @@
     "href": "index.html",
     "title": "DRAFT Data in Animal Welfare",
     "section": "",
-    "text": "Preface\nThis is a free book on data in animal welfare"
+    "text": "Preface\nThis is the Data in Animal Welfare free resource from the Animal Welfare Centre at R(D)SVS"
   },
   {
-    "objectID": "index.html#ideas",
-    "href": "index.html#ideas",
-    "title": "DRAFT Data in Animal Welfare",
-    "section": "Ideas",
-    "text": "Ideas\nLouise: Chapter on ethics?\nCynthia: The Excel resources: https://vet.ed.ac.uk/global-agriculture-food-systems/study/farm-data/excel-tutorials"
-  },
-  {
-    "objectID": "index.html#meeting-2nd-feb",
-    "href": "index.html#meeting-2nd-feb",
-    "title": "DRAFT Data in Animal Welfare",
-    "section": "Meeting 2nd Feb",
-    "text": "Meeting 2nd Feb\nMain goals for meeting:\n\nFlesh out idea\n\nWe need a chapter on basic stats at least, central tendency and spread, to support the reading of visualisations.\nflowcharts on data choices?\nneed to pin down target audience\nneed to write the intro/disclaimer in a way that makes it clear what we are doing, this is not a course that equips you. This guide doesn’t cover data management etc.\ndata collection? Data sources? This might be in the intro?\nsampling, generalisability, population vs sample, could go together with the data sources or intro?\nHow do I as a consumer of data react to a histogram? This is a diff audience to people who are dealing with data themselves.\nThis book is aimed at understanding animal welfare data not processing it\nAudience is WORKING in animal welfare but non experts in data\nClosing out chapter on applications of data in animal welfare\nFinal case study? You work for Hungry Hedgehogs, this is what you want to report, walk through it?\nBad science interpretation?\n\nSpecify chapter list\nIntroduction chapter containing disclaimer, audience pitch, explicit what its not going to cover (e.g. full stats etc)\nBad science chapter (Victoria first draft two parts? Build same case study throughout?)\nsources of data (including a bit of ethics and AI - and remember the aim is you the animal welfare worker needing to use data, you’re not collecting it, data quality and source quality, quantity vs quality)\nData types (percentages, noir, prevalence and incidence, groups)\ntidy data\nintro to data visualisation (what is a chart why am I looking at it)\ndescribing data (central tendncies, spread, transparency??, Victoria)\ndata relationships (highly data vis lean on it)\nfinal case study\nclosing applications chapter\nDecide on initial tasks\n\nJill to write a chapter template and word count parameter\nJill to look into interactivity\nJill to set up a technical meeting\nVictoria bad science chapter initial draft\nJill to make a Teams site for document library purposes\nSarah tidy data"
-  },
-  {
-    "objectID": "01_intro.html",
-    "href": "01_intro.html",
+    "objectID": "01_intro.html#id-like-to-go-further",
+    "href": "01_intro.html#id-like-to-go-further",
     "title": "1  Data in Animal Welfare",
-    "section": "",
-    "text": "When you work in animal welfare, you will probably encounter data in some form or another, whether it’s talking about the number of animals a charity has supported, or trying to get to grips with the prevalence of an animal welfare concern like tail docking. While there are many scientists in animal welfare who\nThis is an open resource to support people to use data in animal welfare\nFive domains (Mellor et al. 2020)\n\n\n\n\nMellor, David J., Ngaio J. Beausoleil, Katherine E. Littlewood, Andrew N. McLean, Paul D. McGreevy, Bidda Jones, and Cristina Wilkins. 2020. “The 2020 five domains model: Including human–animal interactions in assessments of animal welfare.” Animals 10 (10): 1–24. https://doi.org/10.3390/ani10101870."
+    "section": "1.1 I’d like to go further!",
+    "text": "1.1 I’d like to go further!\nGreat! We have a range of undergraduate, postgraduate, and professional development courses at the Royal (Dick) School of Veterinary Studies here on our education page: https://vet.ed.ac.uk/education\nWe also offer free resources such as:\n\nOur introduction to excel video course\nOur free textbook on using R for veterinary science, R @ R(D)SVS"
   },
   {
-    "objectID": "02_datatypes.html",
-    "href": "02_datatypes.html",
-    "title": "2  Data Types",
+    "objectID": "02_badscience1.html",
+    "href": "02_badscience1.html",
+    "title": "2  Bad Science, Part 1",
+    "section": "",
+    "text": "When good data goes bad"
+  },
+  {
+    "objectID": "03_datasources.html",
+    "href": "03_datasources.html",
+    "title": "3  Sources of Data",
+    "section": "",
+    "text": "(including a bit of ethics and AI - and remember the aim is you the animal welfare worker needing to use data, you’re not collecting it, data quality and source quality, quantity vs quality)"
+  },
+  {
+    "objectID": "04_datatypes.html",
+    "href": "04_datatypes.html",
+    "title": "4  Data Types",
     "section": "",
     "text": "NOIR data\nCollecting data from animals"
   },
   {
-    "objectID": "03_datavis.html",
-    "href": "03_datavis.html",
-    "title": "3  Visualising data",
+    "objectID": "06_badscience2.html",
+    "href": "06_badscience2.html",
+    "title": "6  Bad Science Part 2",
     "section": "",
-    "text": "Good visualisations are important"
+    "text": "Ooooh"
   },
   {
-    "objectID": "04_simplestats.html",
-    "href": "04_simplestats.html",
-    "title": "4  Simple stats",
+    "objectID": "07_datavis.html",
+    "href": "07_datavis.html",
+    "title": "7  Visualising data",
     "section": "",
-    "text": "central tendencies"
+    "text": "Good visualisations are important\n\nfiltered = transpose(data).filter(function(penguin) {\n  return bill_length_min &lt; penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})\n\n\n\n\n\n\n\nviewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot.rectY(filtered, \n  Plot.binX(\n    {y: \"count\"}, \n    {x: \"body_mass_g\", fill: \"species\", thresholds: 20}\n  ))\n  .plot({\n    facet: {\n      data: filtered,\n      x: \"sex\",\n      y: \"species\",\n      marginRight: 80\n    },\n    marks: [\n      Plot.frame(),\n    ]\n  }\n)"
   },
   {
-    "objectID": "05_datarelationships.html",
-    "href": "05_datarelationships.html",
-    "title": "5  Data relationships",
+    "objectID": "08_describingdata.html",
+    "href": "08_describingdata.html",
+    "title": "8  Describing Data",
+    "section": "",
+    "text": "central tendncies, spread, transparency??"
+  },
+  {
+    "objectID": "09_datarelationships.html",
+    "href": "09_datarelationships.html",
+    "title": "9  Data relationships",
     "section": "",
     "text": "more extensive data relationships and visualisations that require central tendency\nflow charts what chart to choose for what visualisation?"
   },
@@ -82,47 +89,5 @@
     "title": "About",
     "section": "Code",
     "text": "Code\nYou can find the code used to create this book here: https://github.com/jillymackay/DatainAnimalWelfare\nPlease feel free to use this code to create your own work, or to add any suggestions with a pull request."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Mellor, David J., Ngaio J. Beausoleil, Katherine E. Littlewood, Andrew\nN. McLean, Paul D. McGreevy, Bidda Jones, and Cristina Wilkins. 2020.\n“The 2020 five domains model: Including\nhuman–animal interactions in assessments of animal\nwelfare.” Animals 10 (10): 1–24. https://doi.org/10.3390/ani10101870."
-  },
-  {
-    "objectID": "02_badscience1.html",
-    "href": "02_badscience1.html",
-    "title": "2  Bad Science, Part 1",
-    "section": "",
-    "text": "When good data goes bad"
-  },
-  {
-    "objectID": "09_datarelationships.html",
-    "href": "09_datarelationships.html",
-    "title": "9  Data relationships",
-    "section": "",
-    "text": "more extensive data relationships and visualisations that require central tendency\nflow charts what chart to choose for what visualisation?"
-  },
-  {
-    "objectID": "07_datavis.html",
-    "href": "07_datavis.html",
-    "title": "7  Visualising data",
-    "section": "",
-    "text": "Good visualisations are important\n\nfiltered = transpose(data).filter(function(penguin) {\n  return bill_length_min &lt; penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})\n\n\n\n\n\n\n\nviewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot.rectY(filtered, \n  Plot.binX(\n    {y: \"count\"}, \n    {x: \"body_mass_g\", fill: \"species\", thresholds: 20}\n  ))\n  .plot({\n    facet: {\n      data: filtered,\n      x: \"sex\",\n      y: \"species\",\n      marginRight: 80\n    },\n    marks: [\n      Plot.frame(),\n    ]\n  }\n)"
-  },
-  {
-    "objectID": "08_describingdata.html",
-    "href": "08_describingdata.html",
-    "title": "8  Describing Data",
-    "section": "",
-    "text": "central tendncies, spread, transparency??"
-  },
-  {
-    "objectID": "01_intro.html#id-like-to-go-further",
-    "href": "01_intro.html#id-like-to-go-further",
-    "title": "1  Data in Animal Welfare",
-    "section": "1.1 I’d like to go further!",
-    "text": "1.1 I’d like to go further!\nGreat! We have a range of undergraduate, postgraduate, and professional development courses at the Royal (Dick) School of Veterinary Studies here on our education page: https://vet.ed.ac.uk/education\nWe also offer free resources such as:\n\nOur introduction to excel video course\nOur free textbook on using R for veterinary science, R @ R(D)SVS"
   }
 ]
